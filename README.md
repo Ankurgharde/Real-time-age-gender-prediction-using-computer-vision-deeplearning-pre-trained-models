@@ -1,0 +1,2 @@
+# Real-time-age-gender-prediction-using-computer-vision-deeplearning-pre-trained-models
+This project enables real-time prediction of age and gender attributes from live video streams using computer vision techniques and deep learning models. Leveraging the capabilities of convolutional neural networks (CNNs) and modern deep learning architectures, it can accurately estimate age and gender attributes from facial images in real-time.
